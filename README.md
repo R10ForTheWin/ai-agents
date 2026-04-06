@@ -1,4 +1,4 @@
-# DJ — AI Product Lab
+# DJ — AI Agents
 
 A collection of AI tools built for real-world use cases across sports, media, and logistics.
 
