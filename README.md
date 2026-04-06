@@ -1,6 +1,8 @@
 # DJ — AI Agents
 
-A collection of AI tools built for real-world use cases across sports, media, and logistics.
+Building applied AI agents for real-world use cases.
+
+From sports and logistics to education and media — focused on solving coordination problems with simple, usable systems.
 
 ---
 
