@@ -1,8 +1,10 @@
 # DJ — AI Agents
 
+![ARTIE Screenshot](https://raw.githubusercontent.com/R10ForTheWin/artie/main/ARTIE%20for%20Github.png)
+
 Building applied AI agents for real-world use cases.
 
-From sports and logistics to education and media — focused on solving coordination problems with simple, usable systems.
+From sports and team operations to education and media — focused on solving coordination problems with simple, usable systems.
 
 ---
 
@@ -28,8 +30,22 @@ Autonomous agent that monitors UCLA parking inventory and automatically purchase
 
 ---
 
+## 🟫 Reggie  
+Lightweight training management system for swim and paddle teams — designed to simplify scheduling, attendance, and workout tracking.
+
+👉 [View code](https://github.com/R10ForTheWin/reggie)
+
+---
+
+## 🟥 Map Quiz  
+AI-assisted geography learning tool for 5th graders, built to make map skills more interactive and accessible.
+
+👉 [View code](https://github.com/R10ForTheWin/map-quiz)
+
+---
+
 ## 🟪 Newsie  
-AI-powered headline transformation tool inspired by modern media formats.
+AI-powered headline tool that mixes real news with Onion-style satire — inserting humorous headlines to lighten the tone and make news more engaging.
 
 👉 [View code](https://github.com/R10ForTheWin/newsie)
 
@@ -37,4 +53,8 @@ AI-powered headline transformation tool inspired by modern media formats.
 
 ## 🧠 What this is
 
-This is an ongoing exploration of applied AI — focused on building practical tools for niche, real-world problems rather than abstract demos.
+An ongoing exploration of applied AI — building practical systems for real-world coordination problems rather than abstract demos.
+
+---
+
+More agents coming soon.
