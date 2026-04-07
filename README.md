@@ -31,7 +31,7 @@ Building applied AI agents for real-world coordination problems in sports, media
     </td>
     <td valign="top">
       <strong>Reggie</strong><br><br>
-      Lightweight training management system for swim and paddle teams. Handles practice scheduling, attendance tracking, and workout organization with a mobile-first interface.
+      Lightweight training management system for swim teams. Handles practice scheduling, attendance tracking, and workout organization with a mobile-first interface.
     </td>
   </tr>
   <tr><td colspan="2"><br></td></tr>
