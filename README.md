@@ -60,7 +60,7 @@ Building applied AI agents for real-world coordination problems in sports, media
       <img src="assets/map-quiz.svg" width="80">
     </td>
     <td valign="top">
-      <strong>Map Quiz</strong> &nbsp;·&nbsp; <a href="https://github.com/R10ForTheWin/map-quiz">Code</a><br><br>
+      <strong>Oreo's Map Quest</strong> &nbsp;·&nbsp; <a href="https://github.com/R10ForTheWin/map-quiz">Code</a><br><br>
       Interactive geography learning tool for 5th graders — covering US states and capitals as well as international maps.
     </td>
   </tr>
