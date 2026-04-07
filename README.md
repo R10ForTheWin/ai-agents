@@ -71,7 +71,7 @@ Building applied AI agents for real-world coordination problems in sports, media
     </td>
     <td valign="top">
       <strong>Deckie</strong><br><br>
-      AI-powered slide gradient tool that applies intelligent color overlays and background treatments to presentation slides using OpenAI vision models.
+      AI-powered tool that makes building decks faster and easier — applies intelligent color gradients and background treatments to presentation slides.
     </td>
   </tr>
 </table>
