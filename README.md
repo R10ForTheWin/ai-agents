@@ -57,7 +57,7 @@ Building applied AI agents for real-world coordination problems in sports, media
   <tr><td colspan="2"><br></td></tr>
   <tr>
     <td align="center" valign="top">
-      <img src="assets/map-quiz.svg" width="80">
+      <img src="assets/map-quiz.png" width="80">
     </td>
     <td valign="top">
       <strong>Oreo's Map Quest</strong> &nbsp;·&nbsp; <a href="https://github.com/R10ForTheWin/map-quiz">Code</a><br><br>
