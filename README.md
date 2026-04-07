@@ -67,7 +67,7 @@ Building applied AI agents for real-world coordination problems in sports, media
   <tr><td colspan="2"><br></td></tr>
   <tr>
     <td align="center" valign="top">
-      <strong>🎨</strong>
+      <img src="assets/deckie.png" width="80">
     </td>
     <td valign="top">
       <strong>Deckie</strong><br><br>
