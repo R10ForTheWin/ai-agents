@@ -61,7 +61,7 @@ Building applied AI agents for real-world coordination problems in sports, media
     </td>
     <td valign="top">
       <strong>Map Quiz</strong> &nbsp;·&nbsp; <a href="https://github.com/R10ForTheWin/map-quiz">Code</a><br><br>
-      Interactive geography learning tool for 5th graders — making US states and capital maps engaging and accessible.
+      Interactive geography learning tool for 5th graders — covering US states and capitals as well as international maps.
     </td>
   </tr>
   <tr><td colspan="2"><br></td></tr>
