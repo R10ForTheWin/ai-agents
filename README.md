@@ -74,6 +74,16 @@ Building applied AI agents for real-world coordination problems in sports, media
       AI-powered tool that makes building decks faster and easier — applies intelligent color gradients and background treatments to presentation slides.
     </td>
   </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="assets/dot-race.png" width="80">
+    </td>
+    <td valign="top">
+      <strong>Project Dot Race</strong> &nbsp;·&nbsp; <a href="https://github.com/R10ForTheWin/dot-race">Code</a><br><br>
+      iPhone app for tracking personal projects as colored dots racing around an oval track. Drag dots between the track and infield to move projects between Bullpen, Racing, and Retired stages.
+    </td>
+  </tr>
 </table>
 
 ---
