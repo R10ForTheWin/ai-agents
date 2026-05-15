@@ -80,7 +80,7 @@ Building applied AI agents for real-world coordination problems in sports, media
       <img src="assets/dot-race.png" width="80">
     </td>
     <td valign="top">
-      <strong>Project Dot Race</strong> &nbsp;·&nbsp; <a href="https://github.com/R10ForTheWin/dot-race">Code</a><br><br>
+      <strong>Dottie</strong> &nbsp;·&nbsp; <a href="https://dot-race-production.up.railway.app">↗ Live App</a> &nbsp;·&nbsp; <a href="https://github.com/R10ForTheWin/dot-race">Code</a><br><br>
       iPhone app for tracking personal projects as colored dots racing around an oval track. Drag dots between the track and infield to move projects between Bullpen, Racing, and Retired stages.
     </td>
   </tr>
