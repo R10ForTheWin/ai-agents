@@ -7,6 +7,16 @@ Building applied AI agents for real-world coordination problems in sports, media
 <table>
   <tr>
     <td width="100" align="center" valign="top">
+      <img src="assets/domain-huntress.png" width="80">
+    </td>
+    <td valign="top">
+      <strong>Domain Huntress</strong> &nbsp;·&nbsp; <a href="https://github.com/R10ForTheWin/Domain-Hunter">Code</a><br><br>
+      Screens hundreds of candidate books down to the ones we can legally use (public domain), scores the survivors against a researched studio adaptation mandate, and produces a shortlist of ten.
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="100" align="center" valign="top">
       <img src="assets/ucla-parking.png" width="80">
     </td>
     <td valign="top">
@@ -92,16 +102,6 @@ Building applied AI agents for real-world coordination problems in sports, media
     <td valign="top">
       <strong>WallSight</strong> &nbsp;·&nbsp; <a href="https://r10forthewin.github.io/wallsight-demo/">↗ Live App</a> &nbsp;·&nbsp; <a href="https://github.com/R10ForTheWin/wallsight-demo">Code</a><br><br>
       Browser-based AR demo that lets you point your phone at a wall and see the studs, wiring, plumbing, and ductwork hidden behind it — no app install required.
-    </td>
-  </tr>
-  <tr><td colspan="2"><br></td></tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="assets/domain-huntress.png" width="80">
-    </td>
-    <td valign="top">
-      <strong>Domain Huntress</strong> &nbsp;·&nbsp; <a href="https://github.com/R10ForTheWin/Domain-Hunter">Code</a><br><br>
-      Screens hundreds of candidate books down to the ones we can legally use (public domain), scores the survivors against a researched studio adaptation mandate, and produces a shortlist of ten.
     </td>
   </tr>
 </table>
